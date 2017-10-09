@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    googlecharts (1.6.12)
+    smarter_csv (1.1.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  googlecharts
+  smarter_csv
+
+BUNDLED WITH
+   1.15.4
